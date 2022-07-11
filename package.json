@@ -12,8 +12,11 @@
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
     "@mui/material": "latest",
-    "react": "latest",
+    "@reduxjs/toolkit": "^1.8.3",
+    "axios": "^0.27.2",
+    "react": "^18.2.0",
     "react-dom": "latest",
+    "react-redux": "^8.0.2",
     "react-scripts": "latest"
   },
   "browserslist": {
